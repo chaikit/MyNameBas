@@ -1,0 +1,2 @@
+# MyNameBas
+pythonpackage: MyNameBas
